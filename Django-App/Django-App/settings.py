@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'performance',  # Your app here
+    'sslserver',
 ]
 
 MIDDLEWARE = [
