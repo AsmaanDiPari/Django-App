@@ -1,8 +1,0 @@
-{
-  "name": "Elastic-Beanstalk-Sample-App",
-  "version": "0.0.1",
-  "private": true,
-  "dependencies": {},
-  "scripts": {
-    "start": "python Django-App/Django-App/manage.py runsslserver 0.0.0.0:8080"
-  }
